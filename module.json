@@ -13,6 +13,6 @@
         "./css/heroquest.css"
     ],
     "url": "https://github.com/nadcraker/heroquest-dice-foundry-vtt",
-    "manifest": "https://github.com/nadcraker/heroquest-dice-foundry-vtt/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/nadcraker/heroquest-dice-foundry-vtt/main/module.json",
     "download": "https://github.com/nadcraker/heroquest-dice-foundry-vtt/blob/main/hq-dice.zip?raw=true"
 }
