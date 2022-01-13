@@ -3,8 +3,8 @@
     "title": "HeroQuest Dice",
     "description": "Adds the ability to roll HeroQuest dice",
     "version": "1.0.5",
-    "minimumCoreVersion": "0.8.8",
-    "compatibleCoreVersion": "0.8.8",
+    "minimumCoreVersion": "0.9.0",
+    "compatibleCoreVersion": "0.9.0",
     "author": "Bloom, David",
     "esmodules": [
         "./modules/heroquest.js"
@@ -12,7 +12,7 @@
     "styles": [
         "./css/heroquest.css"
     ],
-    "url": "https://github.com/JiDW/FVTT-Szimfonia",
-    "manifest": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/module.json",
-    "download": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/fvtt-szimfonia.zip"
+    "url": "https://github.com/nadcraker/heroquest-dice-foundry-vtt",
+    "manifest": "https://github.com/nadcraker/heroquest-dice-foundry-vtt/main/module.json",
+    "download": "https://github.com/nadcraker/heroquest-dice-foundry-vtt/blob/main/hq-dice.zip?raw=true"
 }
